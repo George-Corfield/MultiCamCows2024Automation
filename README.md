@@ -60,7 +60,7 @@ To run for inference run the following:
 
 ```
 
-python infer path/to/video/directory path/to/save/directory
+python training.py infer path/to/video/directory path/to/save/directory
 
 ```
 
